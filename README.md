@@ -4,6 +4,10 @@ This repository hosts a collection of MEI (Music Encoding Initiative) test files
 
 ## Context
 
+![Musica2 Logo](images/mei-logo.png)
+
+![Huma-Num Logo](images/mei-logo.png)
+
 This repository has been created in the framework of the Musica2 Consortium,
 Working Group 1 (Encoding and Standards), under the Huma-Num research infrastructure.
 
